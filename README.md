@@ -1,5 +1,3 @@
-README
-
 Description:
 
 This Python script is designed to scrape airline information from the website "planespotters.net". 
